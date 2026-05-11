@@ -8,6 +8,13 @@ Downloads oficiais do BriqueRadar Bot.
 - Arquivo: BRIQUE.RADAR.BOT.CLIENTE.OFICIAL.v2.1.2_2026-05-11.zip
 - SHA256: 8225B71A0E8391E6E14DF3B5DA3F279EE8904EDA987F3B8B0079E82D78024412
 
+## Instalador Windows
+
+- Versao: v2.1
+- Arquivo: BriqueRadarBot_Setup_v2.1.exe
+- SHA256: C575BAD524ED16A9A62526A26351F7E44C738236A49742A4BAF0EDC0F84E8614
+- Status: testado em instalacao silenciosa, exit code 0.
+
 Alteracoes desta versao:
 
 - Diagnostico do cliente agora envia dados da licenca quando a licenca esta ativada.
