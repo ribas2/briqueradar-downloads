@@ -10,10 +10,15 @@ Downloads oficiais do BriqueRadar Bot.
 
 ## Instalador Windows
 
-- Versao: v2.1
+- Versao recomendada: v2.1 com passo a passo
+- Arquivo recomendado: BriqueRadarBot_Instalador_v2.1_COM_PASSO_A_PASSO_2026-05-11.zip
+- SHA256: 9C1FD239843B657A0CCBE75AADA2438F9746CFD946894FD9ACF6B4CC8C7F98E1
+- Conteudo: instalador exe + LEIA PRIMEIRO - COMO INSTALAR.txt.
+
+Arquivo exe direto:
+
 - Arquivo: BriqueRadarBot_Setup_v2.1.exe
 - SHA256: C575BAD524ED16A9A62526A26351F7E44C738236A49742A4BAF0EDC0F84E8614
-- Status: testado em instalacao silenciosa, exit code 0.
 
 Alteracoes desta versao:
 
