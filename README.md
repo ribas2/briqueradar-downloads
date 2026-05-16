@@ -1,12 +1,13 @@
 ﻿# BriqueRadar Downloads
 
-Downloads oficiais do BriqueRadar Bot.
+Download oficial do BriqueRadar Bot para clientes.
 
-Versao atual: v2.1.10
+Versao atual: v2.1.11
 
-Atualizacao v2.1.10:
-- filtro contra anuncios de servico/desbloqueio, como "desbloqueio celular", "removo iCloud", "conta Google/FRP", "troca de tela" e "conserto celular";
-- status mostra quantos anuncios foram ignorados por servico/desbloqueio;
-- mantem filtro contra anuncios de compra/procura;
-- mantem reconhecimento de preco em real e dolar;
-- mantem filtro de localizacao e bloqueio de anuncios vendidos/indisponiveis.
+Novidades desta versao:
+- Configurador agora aceita preco minimo e preco maximo por busca.
+- Bot ignora anuncios abaixo do minimo configurado.
+- Status mostra quantos anuncios ficaram abaixo do minimo.
+- Mantem filtros contra anuncios de compra/procura, servico, desbloqueio e vendidos.
+
+Use sempre o botao Baixar bot dentro do Discord/Minha Licenca para pegar a versao oficial.
