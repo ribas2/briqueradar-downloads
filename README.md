@@ -2,11 +2,10 @@
 
 Downloads oficiais do BriqueRadar Bot.
 
-## Versao atual
+Versao atual: v2.1.9
 
-- BriqueRadar Bot Cliente Oficial v2.1.8
-- Atualizacao: 13/05/2026
-- Correcao: Facebook Marketplace em dolar agora reconhece $ / US$ / USD.
-- Melhoria: tambem reconhece preco em BRL escrito como R$ ou BRL.
-- Mantido: filtro mais rigido de localizacao e bloqueio de anuncios vendidos/indisponiveis.
-- Mantido: Discord + Telegram, escolha de navegador e licenca online.
+Atualizacao v2.1.9:
+- filtro contra anuncios de compra/procura, como "compro celular", "compra celulares com defeito" e "procuro iPhone";
+- status mostra quantos anuncios foram ignorados por compra/procura;
+- mantem reconhecimento de preco em real e dolar;
+- mantem filtro de localizacao e bloqueio de anuncios vendidos/indisponiveis.
