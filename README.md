@@ -1,18 +1,16 @@
 ﻿# BriqueRadar Downloads
 
-Download oficial do BriqueRadar Bot para clientes.
+Downloads oficiais do BriqueRadar Bot.
 
-Versao atual: v2.1.14
+Versao atual: v2.1.15
 
-Novidades desta versao:
-- Alertas do Discord agora podem ter botoes de mensagem pronta.
-- Botoes: copiar abordagem, fazer oferta, perguntar estado e perguntar entrega.
-- Score de oportunidade com revenda estimada, lucro estimado e status de localizacao.
-- Nichos/modelos prontos para configurar buscas mais rapido.
-- Filtros reforcados contra anuncios vendidos, compra/procura, servico e desbloqueio.
-- Preco minimo e preco maximo por busca.
+Arquivo:
+BRIQUE.RADAR.BOT.CLIENTE.OFICIAL.v2.1.15_2026-05-18.zip
 
-SHA256 do ZIP v2.1.14:
-B06DC2A8F3E28BE50DF68BECC73047B962DF6F36DB698D99FAFC1C7C8B298547
+SHA256 do ZIP v2.1.15:
+B9D1DECC9F14467638E01812551C27FCFC8BFC3119953FEC4C6010B44A6055F2
 
-Use sempre o botao Baixar bot dentro do Discord/Minha Licenca para pegar a versao oficial.
+Resumo da atualizacao:
+- Removido o botao Fazer oferta dos alertas.
+- Mantidos apenas Copiar abordagem, Perguntar estado e Perguntar retirada hoje.
+- Melhorias recentes de filtros, localizacao, anuncios vendidos, moeda BRL/USD, selecoes de hoje, Telegram, diagnostico, score e seguranca de licenca.
